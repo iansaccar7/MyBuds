@@ -30,7 +30,7 @@ A plataforma simula a compra de produtos de cannabis, com categorias como **Sati
 3. **Inicie o servidor**:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. **Abra o navegador** e acesse `http://localhost:5173/` para começar a explorar a loja fictícia!
